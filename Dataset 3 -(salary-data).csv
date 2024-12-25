@@ -1,0 +1,52 @@
+﻿Age,Gender,Education Level,Job Title,Years of Experience,Salary,Daily working hours
+32,Male,Bachelor's,Software Engineer,5,90000,6
+28,Female,Master's,Data Analyst,3,65000,8
+45,Male,PhD,Senior Manager,15,150000,8
+36,Female,Bachelor's,Sales Associate,7,60000,5
+52,Male,Master's,Director,20,200000,12
+29,Male,Bachelor's,Marketing Analyst,2,55000,6
+42,Female,Master's,Product Manager,12,120000,6
+31,Male,Bachelor's,Sales Manager,4,80000,4
+26,Female,Bachelor's,Marketing Coordinator,1,45000,5
+38,Male,PhD,Senior Scientist,10,110000,10
+29,Male,Master's,Software Developer,3,75000,9
+48,Female,Bachelor's,HR Manager,18,140000,6
+35,Male,Bachelor's,Financial Analyst,6,65000,6
+40,Female,Master's,Project Manager,14,130000,8
+27,Male,Bachelor's,Customer Service Rep,2,40000,6
+44,Male,Bachelor's,Operations Manager,16,125000,7
+33,Female,Master's,Marketing Manager,7,90000,8
+39,Male,PhD,Senior Engineer,12,115000,8
+25,Female,Bachelor's,Data Entry Clerk,0,35000,10
+51,Male,Bachelor's,Sales Director,22,180000,9
+34,Female,Master's,Business Analyst,5,80000,8
+47,Male,Master's,VP of Operations,19,190000,7
+30,Male,Bachelor's,IT Support,2,50000,7
+36,Female,Bachelor's,Recruiter,9,60000,7
+41,Male,Master's,Financial Manager,13,140000,8
+28,Female,Bachelor's,Social Media Specialist,3,45000,6
+37,Female,Master's,Software Manager,11,110000,12
+24,Male,Bachelor's,Junior Developer,1,40000,6
+43,Female,PhD,Senior Consultant,15,140000,7
+33,Male,Master's,Product Designer,6,90000,8
+50,Male,Bachelor's,CEO,25,250000,12
+31,Female,Bachelor's,Accountant,4,55000,8
+29,Male,Master's,Data Scientist,3,75000,7
+39,Female,Bachelor's,Marketing Specialist,10,65000,6
+46,Male,PhD,Senior Manager,20,170000,5
+27,Male,Bachelor's,Technical Writer,2,45000,6
+35,Female,Bachelor's,HR Generalist,7,60000,5
+42,Male,Master's,Project Engineer,14,115000,5
+26,Female,Bachelor's,Customer Success Rep,1,40000,6
+49,Male,Bachelor's,Sales Executive,21,160000,7
+34,Female,Master's,UX Designer,5,80000,8
+48,Male,Master's,Operations Director,18,190000,5
+30,Male,Bachelor's,Network Engineer,3,60000,3
+36,Female,Bachelor's,Administrative Assistant,8,45000,7
+41,Male,Master's,Strategy Consultant,13,130000,5
+28,Female,Bachelor's,Copywriter,2,40000,11
+32,Male,Bachelor's,Account Manager,5,75000,5
+45,Female,Master's,Director of Marketing,16,180000,8
+38,Male,PhD,Senior Scientist,11,120000,7
+25,Male,Bachelor's,Help Desk Analyst,0,35000,4
+51,Female,Bachelor's,Customer Service Manager,22,130000,7
