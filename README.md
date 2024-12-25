@@ -7,6 +7,6 @@ The project explores relationships between variables such as salary, education, 
 - **Latex-code.tex** – LaTeX source file for the report documentation.  
 - **Dataset (salary-data).csv** – Dataset used for statistical analysis.  
 - **Paper.pdf** – Final compiled report in PDF format.  
-- **README.md** – Project description and overview.
+
 
 
